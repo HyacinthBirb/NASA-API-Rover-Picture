@@ -39,8 +39,8 @@ print ("--------------------------------------------------------")
 
 print ("\033[94mIn case you want to exit to the option menu, type menu at any time.\033[0m")
 
-API_KEY = "RBu1qfRVoUn44hScU2CgS7AtWDwtKF38ka1c8EG0"  # Private NASA API key
-ROVER_NAME = "curiosity"
+API_KEY = ""  # Insert your API here Here
+ROVER_NAME = "curiosity" # Rover Name
 PAGE = 1
 
 CAMERA_INFO = {
