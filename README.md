@@ -15,3 +15,8 @@ Place json.hpp from https://github.com/nlohmann/json/releases/latest in the proj
 sudo apt install libcurl4-openssl-dev nlohmann-json3-dev
 
 I do not belive windows would work, havent tried, you can make your own windows version if you want to
+
+
+The following is NASA OG API key: https://github.com/corincerami/mars-photo-api
+
+there find more info on the overall API
